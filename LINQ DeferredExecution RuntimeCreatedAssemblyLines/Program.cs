@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 //ref link:https://www.youtube.com/watch?v=6g1C7wEOmIU&list=PL90AF0EFFEF782D27&index=13&t=1s
-// Assembly Line Chain - yield statement 
+// Assembly Line Chain - requires yield statement knowledge
 
 static class MainClass
 {
